@@ -1,4 +1,4 @@
-# PLC (Programmable Logic Controller)
+# PLC - Programmable Logic Controller
 This repository explores the world of PLCs as well as the wider domain of Operational Technology (OT).
 
 
