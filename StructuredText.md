@@ -1,9 +1,12 @@
+# Structured Text - Cheat Sheet
 
-# Structured Text
+A short summary of the ST programming language. 
+
 
 ## Facts
 
 * The language is defined by PLCOpen in IEC 61131-3
+* Heavily inspired by Pascal
 * All statements are ended by semicolons.
 * The language is not case-sensitive
 * Spaces have no effect
@@ -13,7 +16,6 @@
 * Dynamic memory allocation is possible, but bad practice
 * There is no function overloading in ST
 * Typically, everything is global
-
 
 
 
